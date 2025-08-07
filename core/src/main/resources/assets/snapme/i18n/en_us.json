@@ -1,0 +1,10 @@
+{
+  "snapme": {
+    "settings": {
+      "enabled": {
+        "name": "Enabled"
+      }
+    },
+    "snappedtext": "Successfully snapped your player character to x: %s, z: %s (yaw: %s, pitch: %s)"
+  }
+}
